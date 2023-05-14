@@ -1,15 +1,16 @@
-Hi, I´m Andrea
+
+### Hi there 👋, my name is Andrea Sierra
+#### I am Learning GitHub
+![I am Learning GitHub](https://ANDREASIERRA55.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project to learn how to work with Github.
+Coming soon on social networks.
+
+Skills: Learning HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 
-**ANDREASIERRA55/ANDREASIERRA55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Factoria F5
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
