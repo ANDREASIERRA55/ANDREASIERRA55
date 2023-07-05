@@ -6,11 +6,12 @@
 I made this project to learn how to work with Github.
 Coming soon on social networks.
 
-Skills: Learning HTML / CSS
+Skills: Learning HTML / CSS / JavaScript / Vue
 
 - 🌱 I’m currently learning HTML /CSS 
 - 🤔 I’m looking for help with This page 
 - 📫 How to reach me: andreasierra103@gmail
+- 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ANDREASIERRA55)  
