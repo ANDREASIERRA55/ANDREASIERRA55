@@ -6,7 +6,7 @@
 I made this project to learn how to work with Github.
 Coming soon on social networks.
 
-Skills: Learning HTML / CSS / JavaScript / Vue / Angular 
+Skills: Learning HTML / CSS / JavaScript / 
 
 - 🌱 I’m currently learning HTML /CSS 
 - 🤔 I’m looking for help with This page 
