@@ -6,11 +6,9 @@
 I made this project to learn how to work with Github.
 Coming soon on social networks.
 
-Skills: Learning HTML / CSS / JavaScript / 
-
 - 🌱 I’m currently learning HTML /CSS 
 - 🤔 I’m looking for help with This page 
-- 📫 How to reach me: andreasierra103@gmail
+- 📫 How to reach me: andreasierra103@gmail 
 
 
 
