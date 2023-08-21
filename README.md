@@ -1,12 +1,10 @@
 ### Hi there 👋, my name is Andrea Sierra 👩‍💻
 
 #### I am Learning GitHub
-![I am Learning GitHub](https://ANDREASIERRA55.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project to learn how to work with Github.
-Coming soon on social networks.
 
-- 🌱 I’m currently learning HTML /CSS 
+- 🌱 I’m currently learning HTML /CSS/ JavaScript/ VUE.3 / Angular / JAVA
 - 🤔 I’m looking for help with This page 
 - 📫 How to reach me: andreasierra103@gmail 
 
