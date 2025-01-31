@@ -4,7 +4,7 @@
 
 I made this project to learn how to work with Github.
 
-- 🌱 I’m currently learning HTML /CSS/ JavaScript/ VUE.3 / Angular / TypeScript / JAVA / Spring boot / MySQL /
+- 🌱 I’m currently learning HTML /CSS/ JAVA / Spring boot / MySQL /
 - 🤔 I’m looking for help with This page 
 - 📫 How to reach me: andreasierra103@gmail 
 
