@@ -23,7 +23,7 @@
 ---
 
 ### 🌟 Proyectos Destacados:
-- **[lila-backend](https://github.com/lila-project-games/lila-backend.git)**: Backend para un proyecto de juegos, desarrollado con **Django** y **PostgreSQL**. Parte de la organización `lila-project-games`, donde contribuyo a construir soluciones web robustas.
+- **[lila-backend](https://github.com/lila-project-games/lila-backend.git)**: Backend para un proyecto de juegos, desarrollado con **Java** y **Spring Boot**. Parte de la organización `lila-project-games`, donde contribuyo a construir soluciones web robustas.
 
 ___
 
