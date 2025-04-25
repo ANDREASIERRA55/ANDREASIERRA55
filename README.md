@@ -32,7 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea%20Sierra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andreasierra103)
 
 ### 🌐 Mis Proyectos Recientes:
-- 📌 **[Perfil Secundario de GitHub](https://github.com/Andreas103-SI)**: Aquí encontrarás mis proyectos más recientes con  **Django** y **PostgreSQL**. ¡Échales un vistazo!
+- 📌 **[Perfil Secundario de GitHub](https://github.com/Andreas103-SI)**: Aquí encontrarás mis proyectos más recientes con  **Python**, **Django** y **PostgreSQL**. ¡Échales un vistazo!
 
 ---
 
