@@ -22,6 +22,11 @@
 
 ---
 
+### 🌟 Proyectos Destacados:
+lila-backend: Backend para un proyecto de juegos, desarrollado con Django y PostgreSQL. Parte de la organización lila-project-games, donde contribuyo a construir soluciones web robustas.
+
+___
+
 ### 📊 Estadísticas de GitHub:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ANDREASIERRA55&show_icons=true&count_private=true&theme=radical)
 
