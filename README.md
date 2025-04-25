@@ -29,7 +29,7 @@
 
 ### 🔗 Conéctate conmigo:
 [![GitHub](https://img.shields.io/badge/GitHub-ANDREASIERRA55-181717?style=for-the-badge&logo=github)](https://github.com/ANDREASIERRA55)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea%20Sierra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andreasierra103)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea%20Sierra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andreasierra103/)
 
 ### 🌐 Mis Proyectos Recientes:
 - 📌 **[Perfil Secundario de GitHub](https://github.com/Andreas103-SI)**: Aquí encontrarás mis proyectos más recientes con  **Python**, **Django** y **PostgreSQL**. ¡Échales un vistazo!
